@@ -1,4 +1,4 @@
-![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/38ea3bbc-c511-4fd1-9858-d610985bb55f)
+
 # Library Management System (LMS)
 
 ## Overview
