@@ -133,6 +133,68 @@ The Library Management System (LMS) employs the Model-View-Controller (MVC) arch
 ### 1. Application Initialization:
 
 Upon launching the application, the user is prompted to enter essential details about the library, including the name, address, and pincode. These details are captured during the static initialization block in the View class.
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/fcc1d967-be4e-4b9f-ad83-648ec704eb6a)
+
+
+
+
+### 2. Main Menu:
+
+After initializing the library, the user is presented with a menu-driven interface.
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/47305859-07bb-42fe-8738-5c2445832499)
+
+
+### 3. Add a Book (Example):
+
+To add a book, choose option 1 from the menu.
+Enter the book details, including name, author, and price.
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/a9120998-8072-4e84-9ace-d6c6a8a2f5bb)
+
+
+### 4. Remove a Book (Example):
+
+To remove a book, choose option 2 from the menu.
+Enter the name of the book to be removed.
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/4b736d1b-a86f-46ca-af55-d799a2e673be)
+
+### 5. Update a Book (Example):
+
+To update a book, choose option 3 from the menu.
+Enter the name of the book to be updated.
+Select the attribute to update (name, author, or price) and provide the new value.
+
+### 6. Get Book Details (Example):
+
+To retrieve details about a specific book, choose option 4 from the menu.
+Enter the name of the book.
+
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/c07e3c8d-f775-4f9c-bc6f-6f865dd055b1)
+
+
+### 7. Exit the Application (Example):
+
+To exit the application, choose option 0 from the menu.
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/63f39369-d035-4cb1-b9d3-35e77db95849)
+
+
+## Workflow or User Interaction
+
+This simplified flowchart represents the primary user interactions within the Library Management System. Users can follow the flow:
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/240b8cce-10d6-4fa4-b9f9-ca40f2dc8e0f)
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/d7c40beb-596b-4a17-b007-ff3f27482d44)
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/922a3b56-af96-407c-8691-8ba76e159aa4)
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/dde58f7e-049e-4030-b195-29a014042307)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
