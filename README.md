@@ -180,10 +180,9 @@ To exit the application, choose option 0 from the menu.
 ## Workflow or User Interaction
 
 This simplified flowchart represents the primary user interactions within the Library Management System. Users can follow the flow:
-![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/240b8cce-10d6-4fa4-b9f9-ca40f2dc8e0f)
-![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/d7c40beb-596b-4a17-b007-ff3f27482d44)
-![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/922a3b56-af96-407c-8691-8ba76e159aa4)
-![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/dde58f7e-049e-4030-b195-29a014042307)
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/9eac4768-c743-44c3-a693-87c6c8ad8281)
+![Uploading image.png…]()
+
 
 
 
