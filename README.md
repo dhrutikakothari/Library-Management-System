@@ -1,4 +1,4 @@
-
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/38ea3bbc-c511-4fd1-9858-d610985bb55f)
 # Library Management System (LMS)
 
 ## Overview
@@ -133,6 +133,7 @@ The Library Management System (LMS) employs the Model-View-Controller (MVC) arch
 ### 1. Application Initialization:
 
 Upon launching the application, the user is prompted to enter essential details about the library, including the name, address, and pincode. These details are captured during the static initialization block in the View class.
+
 ![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/fcc1d967-be4e-4b9f-ad83-648ec704eb6a)
 
 
@@ -141,6 +142,7 @@ Upon launching the application, the user is prompted to enter essential details 
 ### 2. Main Menu:
 
 After initializing the library, the user is presented with a menu-driven interface.
+
 ![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/47305859-07bb-42fe-8738-5c2445832499)
 
 
@@ -148,6 +150,7 @@ After initializing the library, the user is presented with a menu-driven interfa
 
 To add a book, choose option 1 from the menu.
 Enter the book details, including name, author, and price.
+
 ![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/a9120998-8072-4e84-9ace-d6c6a8a2f5bb)
 
 
@@ -155,6 +158,7 @@ Enter the book details, including name, author, and price.
 
 To remove a book, choose option 2 from the menu.
 Enter the name of the book to be removed.
+
 ![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/4b736d1b-a86f-46ca-af55-d799a2e673be)
 
 ### 5. Update a Book (Example):
@@ -162,6 +166,7 @@ Enter the name of the book to be removed.
 To update a book, choose option 3 from the menu.
 Enter the name of the book to be updated.
 Select the attribute to update (name, author, or price) and provide the new value.
+
 ![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/3344f62e-5651-4659-bd43-aac5710a22b6)
 
 
@@ -177,14 +182,19 @@ Enter the name of the book.
 ### 7. Exit the Application (Example):
 
 To exit the application, choose option 0 from the menu.
+
 ![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/63f39369-d035-4cb1-b9d3-35e77db95849)
 
 
 ## Workflow or User Interaction
 
 This simplified flowchart represents the primary user interactions within the Library Management System. Users can follow the flow:
+
 ![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/9eac4768-c743-44c3-a693-87c6c8ad8281)
-![Uploading image.png…]()
+
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/87e4c69a-4bf3-4a38-92af-de91d1fd1970)
+
+
 
 
 
