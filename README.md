@@ -56,13 +56,84 @@ The Library Management System (LMS) employs the Model-View-Controller (MVC) arch
 - MVC promotes collaborative development as different teams or developers can work on different components simultaneously.
 - The clear separation of concerns facilitates collaboration by minimizing dependencies between components.
 
-## Getting Started
-To run the Library Management System application, follow the steps outlined in the [README.md](README.md).
 
-## Contributing
-If you would like to contribute to the development of the Library Management System, please follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
+## Classes and Packages
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+### Library Class
+
+**Package Name:**
+- com.jsp.lms.model
+
+**Attributes (Fields):**
+1. `libraryName` (Type: String)
+2. `libraryAddress` (Type: String)
+3. `pincode` (Type: int)
+4. `books` (Type: List<Book>)
+
+**Methods:**
+- `getLibraryName():` Returns the libraryName.
+- `setLibraryName(String libraryName):` Sets the libraryName.
+- `getLibraryAddress():` Returns the libraryAddress.
+- `setLibraryAddress(String libraryAddress):` Sets the libraryAddress.
+- `getPincode():` Returns the pincode.
+- `setPincode(int pincode):` Sets the pincode.
+- `getBooks():` Returns the books.
+- `setBooks(List<Book> books):` Sets the books.
+
+### Book Class
+
+**Package Name:**
+- com.jsp.lms.model
+
+**Attributes (Fields):**
+1. `bookName` (Type: String)
+2. `bookAuthor` (Type: String)
+3. `bookPrice` (Type: double)
+
+**Methods:**
+- `getBookName():` Returns the bookName.
+- `setBookName(String bookName):` Sets the bookName.
+- `getBookAuthor():` Returns the bookAuthor.
+- `setBookAuthor(String bookAuthor):` Sets the bookAuthor.
+- `getBookPrice():` Returns the bookPrice.
+- `setBookPrice(double bookPrice):` Sets the bookPrice.
+- `toString():` Overrides the toString method.
+
+### View Class
+
+**Package Name:**
+- com.jsp.lms.view
+
+**Attributes (Fields):**
+1. `library` (Type: Library)
+2. `myInput` (Type: Scanner)
+3. `controller` (Type: Controller)
+
+**Methods:**
+- `getLibrary():` Returns the library.
+- `setLibrary(Library library):` Sets the library.
+- `main(String[] args):` The main method containing program logic.
+
+### Controller Class
+
+**Package Name:**
+- com.jsp.lms.controller
+
+**Attributes (Fields):**
+1. `library` (Type: Library)
+
+**Methods:**
+- `addBook(Book book):` Adds a book to the library.
+- `getBook(String bookName):` Retrieves a book from the library.
+- `update(Book bookExist, Book bookUpdate):` Updates book details.
+- `removeBook(String bookName):` Removes a book from the library.
+
+## User Guide
+
+### 1. Application Initialization:
+
+Upon launching the application, the user is prompted to enter essential details about the library, including the name, address, and pincode. These details are captured during the static initialization block in the View class.
+
+
 
 
