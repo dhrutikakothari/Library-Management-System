@@ -1,9 +1,4 @@
-![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/bd5211ab-6cde-4f79-83ab-c7663585f86e)# Library-Management-System
 
-Certainly! Below is a README.md template based on the provided information about the Library Management System and its MVC Architecture Pattern:
-
-markdown
-Copy code
 # Library Management System (LMS)
 
 ## Overview
@@ -27,7 +22,8 @@ The Library Management System (LMS) is a Java-based application designed to stre
 - Orchestrates the flow of data between the model and the view.
 - Contains the application's business logic, governing how data is processed and presented.
   ![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/119e5d2e-f68f-4438-9709-38dd75cde7d8)
-  # Benefits of MVC Architecture
+  
+# Benefits of MVC Architecture
 
 The Library Management System (LMS) employs the Model-View-Controller (MVC) architecture, providing several advantages for the development and maintenance of the application.
 
