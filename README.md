@@ -162,13 +162,16 @@ Enter the name of the book to be removed.
 To update a book, choose option 3 from the menu.
 Enter the name of the book to be updated.
 Select the attribute to update (name, author, or price) and provide the new value.
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/3344f62e-5651-4659-bd43-aac5710a22b6)
+
 
 ### 6. Get Book Details (Example):
 
 To retrieve details about a specific book, choose option 4 from the menu.
 Enter the name of the book.
 
-![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/c07e3c8d-f775-4f9c-bc6f-6f865dd055b1)
+![image](https://github.com/dhrutikakothari/Library-Management-System/assets/161920429/561bbff6-c738-436d-a88a-7682deab25c6)
+
 
 
 ### 7. Exit the Application (Example):
